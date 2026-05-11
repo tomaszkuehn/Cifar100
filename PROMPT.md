@@ -1,0 +1,1 @@
+In folder cifar-data there is a complete set of cifar-100 training data. I want to build a neural network that I can train to achieve high accuracy in recognising shapes from cifar-100 data set. I want to use Python.
