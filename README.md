@@ -2,6 +2,8 @@
 
 A complete PyTorch implementation for training a ResNet-18 model on the CIFAR-100 dataset with INT8 quantization support.
 
+<img width="506" height="523" alt="image" src="https://github.com/user-attachments/assets/73324f11-14a7-454c-91b2-c3d78bb88fa5" />
+
 ## Overview
 
 This project implements a deep learning pipeline to classify images from the CIFAR-100 dataset into 100 fine-grained categories. It features:
